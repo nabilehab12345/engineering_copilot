@@ -1,0 +1,6 @@
+v[e]nv/
+__pycache__/
+*.pyc
+chroma_db/
+knowledge_vault/downloaded_papers/*.pdf
+.env

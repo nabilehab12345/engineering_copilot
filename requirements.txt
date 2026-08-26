@@ -1,0 +1,15 @@
+ollama>=0.3.0
+chromadb>=0.5.0
+sentence-transformers>=3.0.0
+pydantic>=2.0.0
+sympy>=1.12
+numpy>=1.24.0
+scipy>=1.10.0
+pypdf>=4.0.0
+trafilatura>=1.6.0
+youtube-transcript-api>=0.6.0
+arxiv>=2.1.0
+apscheduler>=3.10.0
+pyserial>=3.5
+pyautogui>=0.9.54
+requests>=2.31.0

@@ -1,0 +1,62 @@
+{
+    "spur_helical_planetary_an": {
+        "description": "Verified skill for Spur helical planetary and cycloidal gear design stress calculations ISO AGMA",
+        "file": "skills\\spur_helical_planetary_an.py"
+    },
+    "shaft_design_combined_tor": {
+        "description": "Verified skill for Shaft design combined torsion bending fatigue failure Soderberg Goodman",
+        "file": "skills\\shaft_design_combined_tor.py"
+    },
+    "rolling_element_bearing_d": {
+        "description": "Verified skill for Rolling element bearing dynamic load rating C10 and L10 life calculation",
+        "file": "skills\\rolling_element_bearing_d.py"
+    },
+    "finite_element_analysis_f": {
+        "description": "Verified skill for Finite Element Analysis FEA stress concentrations and von Mises yield criterion",
+        "file": "skills\\finite_element_analysis_f.py"
+    },
+    "mechanical_vibration_reso": {
+        "description": "Verified skill for Mechanical vibration resonance damping and modal analysis in machine structures",
+        "file": "skills\\mechanical_vibration_reso.py"
+    },
+    "product_of_exponentials_p": {
+        "description": "Verified skill for Product of Exponentials PoE formula spatial robot kinematics screw theory",
+        "file": "skills\\product_of_exponentials_p.py"
+    },
+    "geometric_jacobian_operat": {
+        "description": "Verified skill for Geometric Jacobian operational space formulation and manipulator dynamics",
+        "file": "skills\\geometric_jacobian_operat.py"
+    },
+    "cartesian_impedance_contr": {
+        "description": "Verified skill for Cartesian impedance control and compliance under physical contact",
+        "file": "skills\\cartesian_impedance_contr.py"
+    },
+    "whole-body_impulse_contro": {
+        "description": "Verified skill for Whole-Body Impulse Control WBC multi-contact balance in humanoid robots",
+        "file": "skills\\whole-body_impulse_contro.py"
+    },
+    "model_predictive_control_": {
+        "description": "Verified skill for Model Predictive Control Convex MPC for dynamic legged locomotion",
+        "file": "skills\\model_predictive_control_.py"
+    },
+    "three-phase_motor_inverte": {
+        "description": "Verified skill for Three-phase motor inverter gate driver MOSFET layout and thermal management",
+        "file": "skills\\three-phase_motor_inverte.py"
+    },
+    "field_oriented_control_fo": {
+        "description": "Verified skill for Field Oriented Control FOC Space Vector PWM SVPWM current loop tuning",
+        "file": "skills\\field_oriented_control_fo.py"
+    },
+    "industrial_control_panel_": {
+        "description": "Verified skill for Industrial control panel design circuit breaker contactor sizing IEC 60204",
+        "file": "skills\\industrial_control_panel_.py"
+    },
+    "pcb_design_high-current_t": {
+        "description": "Verified skill for PCB design high-current traces ground planes and EMI EMC filtering",
+        "file": "skills\\pcb_design_high-current_t.py"
+    },
+    "engineering_materials_sel": {
+        "description": "Verified skill for Engineering materials selection Ashby charts aluminum 7075-T6 vs titanium",
+        "file": "skills\\engineering_materials_sel.py"
+    }
+}

@@ -58,5 +58,65 @@
     "engineering_materials_sel": {
         "description": "Verified skill for Engineering materials selection Ashby charts aluminum 7075-T6 vs titanium",
         "file": "skills\\engineering_materials_sel.py"
+    },
+    "cnc_5-axis_milling_toolpa": {
+        "description": "Verified skill for CNC 5-axis milling toolpath generation G-code feed speed optimization",
+        "file": "skills\\cnc_5-axis_milling_toolpa.py"
+    },
+    "geometric_dimensioning_an": {
+        "description": "Verified skill for Geometric Dimensioning and Tolerancing GD&T fit standards ISO 286",
+        "file": "skills\\geometric_dimensioning_an.py"
+    },
+    "additive_manufacturing_me": {
+        "description": "Verified skill for Additive manufacturing metal 3D printing DMLS SLS design for manufacturing",
+        "file": "skills\\additive_manufacturing_me.py"
+    },
+    "heat_transfer_conduction_": {
+        "description": "Verified skill for Heat transfer conduction convection heat sink sizing for electronics cooling",
+        "file": "skills\\heat_transfer_conduction_.py"
+    },
+    "thermodynamic_stirling_cy": {
+        "description": "Verified skill for Thermodynamic Stirling cycle power efficiency and regenerator design",
+        "file": "skills\\thermodynamic_stirling_cy.py"
+    },
+    "hydraulic_system_circuit_": {
+        "description": "Verified skill for Hydraulic system circuit design cylinder sizing proportional valves",
+        "file": "skills\\hydraulic_system_circuit_.py"
+    },
+    "fluid_mechanics_pipe_fric": {
+        "description": "Verified skill for Fluid mechanics pipe friction factor pressure drop and pump selection",
+        "file": "skills\\fluid_mechanics_pipe_fric.py"
+    },
+    "stm32_arm_cortex-m_timer_": {
+        "description": "Verified skill for STM32 ARM Cortex-M timer interrupt configuration for motor control FOC",
+        "file": "skills\\stm32_arm_cortex-m_timer_.py"
+    },
+    "freertos_real-time_task_s": {
+        "description": "Verified skill for FreeRTOS real-time task scheduling mutex and queue latency optimization",
+        "file": "skills\\freertos_real-time_task_s.py"
+    },
+    "can-bus_can-fd_and_etherc": {
+        "description": "Verified skill for CAN-bus CAN-FD and EtherCAT industrial communication protocol implementation",
+        "file": "skills\\can-bus_can-fd_and_etherc.py"
+    },
+    "magnetic_encoder_spi_comm": {
+        "description": "Verified skill for Magnetic encoder SPI communication and angle calibration algorithms",
+        "file": "skills\\magnetic_encoder_spi_comm.py"
+    },
+    "plc_programming_iec_61131": {
+        "description": "Verified skill for PLC programming IEC 61131-3 Ladder Diagram and Structured Text automation",
+        "file": "skills\\plc_programming_iec_61131.py"
+    },
+    "industrial_sensors_proxim": {
+        "description": "Verified skill for Industrial sensors proximity optical load cells calibration and interfacing",
+        "file": "skills\\industrial_sensors_proxim.py"
+    },
+    "failure_mode_and_effects_": {
+        "description": "Verified skill for Failure Mode and Effects Analysis FMEA risk assessment machine safety ISO 12100",
+        "file": "skills\\failure_mode_and_effects_.py"
+    },
+    "bill_of_materials_bom_cos": {
+        "description": "Verified skill for Bill of Materials BOM cost optimization and engineering project lifecycle",
+        "file": "skills\\bill_of_materials_bom_cos.py"
     }
 }
